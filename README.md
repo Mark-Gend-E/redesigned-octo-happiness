@@ -1,1 +1,1 @@
-# ABBV
+# something about python
